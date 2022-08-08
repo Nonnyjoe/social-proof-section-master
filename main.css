@@ -153,6 +153,9 @@
     .stars-three {
         margin-left: 0px;
     }
+    .ratings {
+        padding-top: 0px;
+    }
     .ratings-cont {
         width: 95%;
         border-radius: 10px;
