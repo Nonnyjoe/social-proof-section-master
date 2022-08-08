@@ -1,4 +1,4 @@
-# Frontend Mentor - 3-column preview card component solution
+# Frontend Mentor - Social proof section solution
 # Assignment by Web3bridge 
 
 ## Table of contents
@@ -10,7 +10,7 @@
 
 ### overview! 👋
 Thanks for checking out this front-end coding challenge.
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 This project was taken as an assignment issued by Web3bridge.
 
@@ -21,8 +21,8 @@ This project was taken as an assignment issued by Web3bridge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nonnyjoe/3-collumn-review-card)
-- Live Site URL: [Add live site URL here](https://nonnyjoe.github.io/3-collumn-review-card/)
+- Solution URL: [Add solution URL here](https://github.com/Nonnyjoe/social-proof-section-master)
+- Live Site URL: [Add live site URL here](https://nonnyjoe.github.io/social-proof-section-master/)
 
 ### Built with
 
